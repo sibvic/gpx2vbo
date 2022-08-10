@@ -5,22 +5,23 @@
         <desc>60 fps - GPS (Lat., Long., Alt., 2D speed, 3D speed) - [deg,deg,m,m/s,m/s]</desc>
         <src>Hero7 Black</src>
         <trkseg>
-        <trkpt lat="54.9724126" lon="73.3637199">
-            <ele>69.786</ele>
-            <time>2021-03-14T10:31:24.374Z</time>
-              <fix>2d</fix>
-              <hdop>403</hdop>
-              <geoidheight>-30.967393458525283</geoidheight>
-              <cmt>2dSpeed: 2.04; 3dSpeed: 0</cmt>
-            </trkpt>
-          <trkpt lat="54.9724126" lon="73.3637199">
-              <ele>69.786</ele>
-              <time>2021-03-14T10:31:25.375Z</time>
-              <fix>2d</fix>
-              <hdop>403</hdop>
-              <geoidheight>-30.967393458525283</geoidheight>
-              <cmt>2dSpeed: 2.04; 3dSpeed: 0</cmt>
+          <trkpt lat="54.9728487" lon="73.3642732">
+            <ele>41.174</ele>
+            <time>2021-03-14T10:35:21.985Z</time>
+            <fix>3d</fix>
+            <hdop>131</hdop>
+            <geoidheight>-30.967393458525283</geoidheight>
+            <cmt>2dSpeed: 7.222; 3dSpeed: 7.27</cmt>
           </trkpt>
+          <trkpt lat="54.9728521" lon="73.3642726">
+            <ele>41.175</ele>
+            <time>2021-03-14T10:35:22.040Z</time>
+            <fix>3d</fix>
+            <hdop>131</hdop>
+            <geoidheight>-30.967393458525283</geoidheight>
+            <cmt>2dSpeed: 7.119; 3dSpeed: 7.22</cmt>
+          </trkpt>
+
         </trkseg>
   </trk>
 </gpx>

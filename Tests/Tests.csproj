@@ -14,4 +14,14 @@
     <PackageReference Include="coverlet.collector" Version="3.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\App\gpx2vbo.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="data\sample.gpx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

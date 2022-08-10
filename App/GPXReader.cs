@@ -1,11 +1,9 @@
-namespace BMIRussian.GPX2VBO
+namespace BMIRussian.GPX2VBO;
+public record GPXData(double Latitude, double Longitude, double Height, DateTime Time, int HDOP, double SpeedMS);
+public class GPXReader
 {
-    public record GPXData(double Latitude, double Longitude, double Height, DateTime Time, int HDOP, double SpeedMS);
-    public class GPXReader
+    public static IEnumerable<GPXData> Read(string fileName)
     {
-        public static IEnumerable<GPXData> Read(string fileName)
-        {
-            yield break;
-        }
+        yield break;
     }
 }
