@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="test">
+    <trk>
+        <name>1.MP4</name>
+        <desc>60 fps - GPS (Lat., Long., Alt., 2D speed, 3D speed) - [deg,deg,m,m/s,m/s]</desc>
+        <src>Hero7 Black</src>
+        <trkseg>
+        <trkpt lat="54.9724126" lon="73.3637199">
+            <ele>69.786</ele>
+            <time>2021-03-14T10:31:24.374Z</time>
+              <fix>2d</fix>
+              <hdop>403</hdop>
+              <geoidheight>-30.967393458525283</geoidheight>
+              <cmt>2dSpeed: 2.04; 3dSpeed: 0</cmt>
+            </trkpt>
+          <trkpt lat="54.9724126" lon="73.3637199">
+              <ele>69.786</ele>
+              <time>2021-03-14T10:31:25.375Z</time>
+              <fix>2d</fix>
+              <hdop>403</hdop>
+              <geoidheight>-30.967393458525283</geoidheight>
+              <cmt>2dSpeed: 2.04; 3dSpeed: 0</cmt>
+          </trkpt>
+        </trkseg>
+  </trk>
+</gpx>
