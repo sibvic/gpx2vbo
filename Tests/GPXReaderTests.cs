@@ -9,7 +9,7 @@ public class GPXReaderTests
     [TestMethod]
     public void Parse()
     {
-        var data = GPXReader.Read("data/sample.gpx").ToList();
+        var data = GPXReader.Read(System.IO.Path.Combine("data", "sample.gpx")).ToList();
         Assert.AreEqual(2, data.Count);
 
         Assert.AreEqual(54.9728487, data[0].Latitude);
