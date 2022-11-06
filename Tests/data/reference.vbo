@@ -20,12 +20,6 @@ OBDII_Temp
 OBDII_Throttle
 OBDII_Load
 
-[comments]
-Log Rate (Hz) : 10
-Device : Race Telemetry Pro (https://www.drive2.ru/o/pkav) (pkav89@gmail.com)
-Software Version : v2.01
-Serial Number : 05DFFF36-37345442-43225626
-
 [column names]
 Time
 latitude
