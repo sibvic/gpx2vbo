@@ -1,0 +1,53 @@
+[header]
+time
+latitude
+longitude
+height
+HDoP
+satellites
+velocity kmh
+heading
+Accel_Lon
+Accel_Lat
+Accel_Alt
+GyroX
+GyroY
+GyroZ
+Yaw
+Slip Angle
+OBDII_Revs
+OBDII_Temp
+OBDII_Throttle
+OBDII_Load
+
+[comments]
+Log Rate (Hz) : 10
+Device : Race Telemetry Pro (https://www.drive2.ru/o/pkav) (pkav89@gmail.com)
+Software Version : v2.01
+Serial Number : 05DFFF36-37345442-43225626
+
+[column names]
+Time
+latitude
+longitude
+height
+HDoP
+satellites
+velocity kmh
+heading
+Accel_Lon
+Accel_Lat
+Accel_Alt
+GyroX
+GyroY
+GyroZ
+Yaw
+slip
+OBDII_Revs
+OBDII_Temp
+OBDII_Throttle
+OBDII_Load
+
+[data]
+035634,90 +3305,14092000 -4380,10890000 +0093,500000 001,01 009 000,00 +00,00 -0,02 -0,13 -0,97 -0,42 -0,18 -0,02 +360,00 +0,00 00000 000 +00 000
+035635,00 +3305,14091000 -4380,10891000 +0093,500000 001,01 009 000,00 +00,00 -0,03 -0,14 -0,98 -0,02 -0,03 -0,18 +0,00 +0,00 00000 000 +00 000
